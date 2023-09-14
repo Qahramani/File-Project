@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Edabit_exirsices\File exercise\bin\Debug\File exercise.exe.config
+C:\Users\User\source\repos\Edabit_exirsices\File exercise\bin\Debug\File exercise.exe
+C:\Users\User\source\repos\Edabit_exirsices\File exercise\bin\Debug\File exercise.pdb
+C:\Users\User\source\repos\Edabit_exirsices\File exercise\obj\Debug\File exercise.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Edabit_exirsices\File exercise\obj\Debug\File exercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Edabit_exirsices\File exercise\obj\Debug\File exercise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Edabit_exirsices\File exercise\obj\Debug\File exercise.exe
+C:\Users\User\source\repos\Edabit_exirsices\File exercise\obj\Debug\File exercise.pdb
